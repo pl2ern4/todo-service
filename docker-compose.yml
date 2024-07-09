@@ -6,4 +6,4 @@ services:
       path: .
       action: rebuild
     ports: 
-      - "4000:9000"
+      - "4000:300"
